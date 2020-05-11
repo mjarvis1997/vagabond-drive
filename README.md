@@ -26,6 +26,9 @@ Controls the intensity of the drive effect
 
 Low values add subtle grit and texture, higher values create more harsh changes in tone
 
+## How do I make changes or build the source code myself?
+The source code is compiled with the help of Projucer. Create an "audio plugin" via their interface and replace the existing source code with mine.
+
 ### Dirty 
 Controls the intensity, but has more impact than the Drive knob
 
