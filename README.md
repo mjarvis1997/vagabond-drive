@@ -15,8 +15,6 @@ Load the vst3 plugin into the Digital Audio Workshop or software of your choice.
 The knobs can be used with mouse input, or direct keyboard entry.
 There are four knobs which allow you to tweak the sound to your liking: 
 
-Output, Blend, Drive, and Dirty
-
 ### Output 
 Controls the overall volume (whether dirty or clean)
 
