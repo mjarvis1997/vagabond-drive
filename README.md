@@ -1,4 +1,4 @@
-# Vagabond-Drive
+# Vagabond Drive
 Audio plugin in .vst3 format
 Built in C++ with JUCE
 
