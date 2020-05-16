@@ -3,6 +3,8 @@ Audio plugin in .vst3 format
 
 Built in C++ with JUCE
 
+Custom GUI created with Adobe Illustrator
+
 ![alt text](https://i.imgur.com/6HLx8G7.png)
 
 ## What does it do?
