@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="tG5xCC" name="dirtyDistortion" projectType="audioplug" jucerVersion="5.4.5"
+<JUCERPROJECT id="tG5xCC" name="Vagabond Drive" projectType="audioplug" jucerVersion="5.4.5"
               companyName="Ragtag Records" companyWebsite="ragtagrecords.com"
-              pluginFormats="buildVST3" pluginChannelConfigs="{1,1},{2,2}">
-  <MAINGROUP id="QTn3pl" name="dirtyDistortion">
+              pluginFormats="buildVST3" pluginChannelConfigs="{1,1},{2,2}"
+              companyEmail="shysta@ragtagrecords.com">
+  <MAINGROUP id="QTn3pl" name="Vagabond Drive">
     <GROUP id="{E0F9D1C8-8249-9760-1F5E-020B253147CC}" name="Source">
       <FILE id="vE2S9t" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
