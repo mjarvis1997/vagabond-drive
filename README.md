@@ -3,6 +3,8 @@ Audio plugin in .vst3 format
 
 Built in C++ with JUCE
 
+![alt text](https://i.imgur.com/6HLx8G7.png)
+
 ## What does it do?
 Distorts sound based on sinusoidal interpolation
 
